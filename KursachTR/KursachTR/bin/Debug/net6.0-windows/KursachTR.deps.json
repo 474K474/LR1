@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KursachTR/1.0.0": {
+        "dependencies": {
+          "Railway": "1.0.0"
+        },
+        "runtime": {
+          "KursachTR.dll": {}
+        }
+      },
+      "Railway/1.0.0": {
+        "runtime": {
+          "Railway.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KursachTR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Railway/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
